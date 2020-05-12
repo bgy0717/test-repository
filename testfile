@@ -1,2 +1,4 @@
 int a;
 printf("Hello happyy world!");
+
+return 0;
